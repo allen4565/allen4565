@@ -1,0 +1,30 @@
+#TOP {
+font-size:28pt;
+background-color:#66CC66;
+line-height:45px;
+position:fixed;
+width:832px;
+height:47px;
+margin-top:-10px;
+margin-left:30px;
+}
+
+
+A:link{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+A:visited{
+	color:#FFFFFF;
+
+}
+
+#BG {
+background-color:#FFFFEE;
+font-size:25px;
+margin-left:30px;
+margin-right:56px;
+margin-top:-30px;
+font-family: Comic Sans MS;
+}

@@ -1,0 +1,70 @@
+#TOP {
+font-size:28pt;
+background-color:#66CC66;
+line-height:45px;
+position:fixed;
+width:832px;
+height:47px;
+margin-top:-10px;
+margin-left:30px;
+}
+
+#singpic{
+margin-left:-8px;
+}
+
+#GAZANIA{
+margin-top:-350px;
+margin-left:80px;
+font-size:80pt;	
+font-family:calibri;
+color:white;
+}
+
+#singpico{
+margin-left:0px;
+}
+.PIC {
+margin-left:520px;
+
+}
+
+.text {
+margin-top:250px;
+margin-left:30px;
+margin-right:58px;
+font-family: Comic Sans MS;
+
+}
+
+A:link{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+A:visited{
+	color:#FFFFFF;
+
+}
+
+#BG {
+background-color:#FFFFEE;
+font-size:25px;
+margin-left:30px;
+margin-right:56px;
+margin-top:-30px;
+}
+
+A:link.links{
+text-decoration:none;
+color:#333399;
+}
+
+A:hover.links{
+text-decoration:underline;
+}
+
+A:visited.links{
+text-decoration:none;
+color:#660099;
+}
